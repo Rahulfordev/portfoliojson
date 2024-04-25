@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "title": "Job Portal",
+    "image": "images/portfolio/halal-jibika.png",
+    "client": "https://github.com/Rahulfordev/HALAL-JIBIKA",
+    "backend": null,
+    "live": "https://halal-jibika-ruddy.vercel.app/",
+    "keyFeatures": ["User-Friendly Interface", "User Authentication"],
+    "project": "Front-End",
+    "technologies": [
+      "React",
+      "react-router-dom",
+      "axios",
+      "react-hook-form",
+      "react-icons",
+      "Firebase",
+      "react-toastify"
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Task Management",
+    "image": "images/portfolio/task-management-application.png",
+    "client": "https://github.com/Rahulfordev/Task-Management-Application-useReducer",
+    "backend": null,
+    "live": "https://task-management-application-react.vercel.app/",
+    "keyFeatures": ["User-Friendly Interface"],
+    "technologies": ["React", "react-icons", "react-toastify"],
+    "project": "Front-End"
+  },
+  {
+    "id": 3,
+    "title": "Travel Vista",
+    "image": "images/portfolio/booking.png",
+    "client": "https://github.com/Rahulfordev/react-booking-website",
+    "backend": null,
+    "live": "https://booking-rahulfordev.netlify.app/",
+    "project": "Front-End",
+    "keyFeatures": [
+      "User-Friendly Interface",
+      "Search Functionality",
+      "User Authentication"
+    ],
+    "technologies": [
+      "React",
+      "react-router-dom",
+      "axios",
+      "react-hook-form",
+      "swiper",
+      "Firebase",
+      "react-date-range",
+      "react-icons",
+      "date-fns"
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Balance Calculator",
+    "image": "images/portfolio/Balance-Calculator.png",
+    "client": "https://github.com/Rahulfordev/Balance-Calculator",
+    "backend": null,
+    "live": "https://balance-calculator-rahulfordev.netlify.app/",
+    "keyFeatures": ["User-Friendly Interface"],
+    "project": "Front-End",
+    "technologies": ["React"]
+  },
+  {
+    "id": 5,
+    "title": "Dynamic form cloths list",
+    "image": "images/portfolio/cloths.png",
+    "client": "https://github.com/Rahulfordev/dynamic-form-cloths-list",
+    "backend": null,
+    "live": "https://cloths-list.vercel.app/",
+    "keyFeatures": ["User-Friendly Interface"],
+    "project": "Front-End",
+    "technologies": ["React", "react-icons"]
+  },
+  {
+    "id": 6,
+    "title": "Dua Ruqyah",
+    "image": "images/portfolio/duas.png",
+    "client": "https://github.com/Rahulfordev/duaruqyah-client",
+    "backend": "https://github.com/Rahulfordev/duaruqyah-server",
+    "live": "https://duaruqyah-client.vercel.app/duas",
+    "keyFeatures": ["User-Friendly Interface"],
+    "project": "Full-Stack",
+    "technologies": [
+      "Next.js",
+      "Express.js",
+      "SQLite",
+      "Tailwind CSS",
+      "axios",
+      "react-icons"
+    ]
+  },
+  {
+    "id": 7,
+    "title": "medical care healthy",
+    "image": "images/portfolio/doctor.png",
+    "client": "https://github.com/Rahulfordev/medical-care-healthy-client",
+    "backend": "https://github.com/Rahulfordev/medical-care-healthy-server",
+    "live": "https://medical-care-healthy.vercel.app/",
+    "keyFeatures": [
+      "User-Friendly Interface",
+      "User Authentication",
+      "Dashboard"
+    ],
+    "project": "MERN-Stack",
+    "technologies": [
+      "React.js",
+      "Express.js",
+      "Firebase",
+      "Tanstack Query",
+      "React Hook Form",
+      "Tailwind CSS",
+      "MongoDB",
+      "JWT",
+      "Stripe"
+    ]
+  }
+]
