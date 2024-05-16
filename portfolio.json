@@ -1,12 +1,37 @@
 [
   {
     "id": 1,
+    "title": "medical care healthy",
+    "image": "images/portfolio/doctor.png",
+    "client": "https://github.com/Rahulfordev/medical-care-healthy-client",
+    "backend": "https://github.com/Rahulfordev/medical-care-healthy-server",
+    "live": "https://medical-care-healthy.vercel.app/",
+    "keyFeatures": [
+      "User-Friendly Interface",
+      "User Authentication",
+      "Dashboard"
+    ],
+    "project": "MERN-Stack",
+    "technologies": [
+      "React.js",
+      "Express.js",
+      "Firebase",
+      "Tanstack Query",
+      "React Hook Form",
+      "Tailwind CSS",
+      "MongoDB",
+      "JWT",
+      "Stripe"
+    ]
+  },
+  {
+    "id": 2,
     "title": "Job Portal",
     "image": "images/portfolio/halal-jibika.png",
     "client": "https://github.com/Rahulfordev/HALAL-JIBIKA",
     "backend": null,
     "live": "https://halal-jibika-ruddy.vercel.app/",
-    "keyFeatures": ["User-Friendly Interface", "User Authentication"],
+    "keyFeatures": ["User-Friendly Interface", "User Authentication", "CRUD"],
     "project": "Front-End",
     "technologies": [
       "React",
@@ -19,7 +44,7 @@
     ]
   },
   {
-    "id": 2,
+    "id": 3,
     "title": "Task Management",
     "image": "images/portfolio/task-management-application.png",
     "client": "https://github.com/Rahulfordev/Task-Management-Application-useReducer",
@@ -30,7 +55,43 @@
     "project": "Front-End"
   },
   {
-    "id": 3,
+    "id": 4,
+    "title": "Caretutors",
+    "image": "images/portfolio/caretutors.png",
+    "client": "https://github.com/Rahulfordev/caretutors-nextJS",
+    "backend": null,
+    "live": "https://caretutors.vercel.app/",
+    "keyFeatures": ["User-Friendly Interface"],
+    "project": "Front-End",
+    "technologies": [
+      "React.js",
+      "Next.js",
+      "Tailwind CSS",
+      "TypeScript",
+      "react-icons",
+      "swiper"
+    ]
+  },
+  {
+    "id": 5,
+    "title": "Dua Ruqyah",
+    "image": "images/portfolio/duas.png",
+    "client": "https://github.com/Rahulfordev/duaruqyah-client",
+    "backend": "https://github.com/Rahulfordev/duaruqyah-server",
+    "live": "https://duaruqyah-client.vercel.app/duas",
+    "keyFeatures": ["User-Friendly Interface"],
+    "project": "Full-Stack",
+    "technologies": [
+      "Next.js",
+      "Express.js",
+      "SQLite",
+      "Tailwind CSS",
+      "axios",
+      "react-icons"
+    ]
+  },
+  {
+    "id": 6,
     "title": "Travel Vista",
     "image": "images/portfolio/booking.png",
     "client": "https://github.com/Rahulfordev/react-booking-website",
@@ -55,7 +116,7 @@
     ]
   },
   {
-    "id": 4,
+    "id": 7,
     "title": "Balance Calculator",
     "image": "images/portfolio/Balance-Calculator.png",
     "client": "https://github.com/Rahulfordev/Balance-Calculator",
@@ -66,7 +127,7 @@
     "technologies": ["React"]
   },
   {
-    "id": 5,
+    "id": 8,
     "title": "Dynamic form cloths list",
     "image": "images/portfolio/cloths.png",
     "client": "https://github.com/Rahulfordev/dynamic-form-cloths-list",
@@ -75,48 +136,5 @@
     "keyFeatures": ["User-Friendly Interface"],
     "project": "Front-End",
     "technologies": ["React", "react-icons"]
-  },
-  {
-    "id": 6,
-    "title": "Dua Ruqyah",
-    "image": "images/portfolio/duas.png",
-    "client": "https://github.com/Rahulfordev/duaruqyah-client",
-    "backend": "https://github.com/Rahulfordev/duaruqyah-server",
-    "live": "https://duaruqyah-client.vercel.app/duas",
-    "keyFeatures": ["User-Friendly Interface"],
-    "project": "Full-Stack",
-    "technologies": [
-      "Next.js",
-      "Express.js",
-      "SQLite",
-      "Tailwind CSS",
-      "axios",
-      "react-icons"
-    ]
-  },
-  {
-    "id": 7,
-    "title": "medical care healthy",
-    "image": "images/portfolio/doctor.png",
-    "client": "https://github.com/Rahulfordev/medical-care-healthy-client",
-    "backend": "https://github.com/Rahulfordev/medical-care-healthy-server",
-    "live": "https://medical-care-healthy.vercel.app/",
-    "keyFeatures": [
-      "User-Friendly Interface",
-      "User Authentication",
-      "Dashboard"
-    ],
-    "project": "MERN-Stack",
-    "technologies": [
-      "React.js",
-      "Express.js",
-      "Firebase",
-      "Tanstack Query",
-      "React Hook Form",
-      "Tailwind CSS",
-      "MongoDB",
-      "JWT",
-      "Stripe"
-    ]
   }
 ]
