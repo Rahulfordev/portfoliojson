@@ -43,8 +43,19 @@
       "react-toastify"
     ]
   },
-  {
+   {
     "id": 3,
+    "title": "B-Trip",
+    "image": "images/portfolio/b-trip.png",
+    "client": "https://github.com/Rahulfordev/b-trip",
+    "backend": null,
+    "live": "https://b-trip.vercel.app/",
+    "keyFeatures": ["User-Friendly Interface"],
+    "technologies": ["React", "Next.js", "Tailwind CSS", "react-icons", "react-slider", "swiper"],
+    "project": "Front-End"
+  },
+  {
+    "id": 4,
     "title": "Task Management",
     "image": "images/portfolio/task-management-application.png",
     "client": "https://github.com/Rahulfordev/Task-Management-Application-useReducer",
@@ -55,7 +66,7 @@
     "project": "Front-End"
   },
   {
-    "id": 4,
+    "id": 5,
     "title": "Caretutors",
     "image": "images/portfolio/caretutors.png",
     "client": "https://github.com/Rahulfordev/caretutors-nextJS",
@@ -73,7 +84,7 @@
     ]
   },
   {
-    "id": 5,
+    "id": 6,
     "title": "Dua Ruqyah",
     "image": "images/portfolio/duas.png",
     "client": "https://github.com/Rahulfordev/duaruqyah-client",
@@ -91,7 +102,7 @@
     ]
   },
   {
-    "id": 6,
+    "id": 7,
     "title": "Travel Vista",
     "image": "images/portfolio/booking.png",
     "client": "https://github.com/Rahulfordev/react-booking-website",
@@ -116,7 +127,7 @@
     ]
   },
   {
-    "id": 7,
+    "id": 8,
     "title": "Balance Calculator",
     "image": "images/portfolio/Balance-Calculator.png",
     "client": "https://github.com/Rahulfordev/Balance-Calculator",
@@ -127,7 +138,7 @@
     "technologies": ["React"]
   },
   {
-    "id": 8,
+    "id": 9,
     "title": "Dynamic form cloths list",
     "image": "images/portfolio/cloths.png",
     "client": "https://github.com/Rahulfordev/dynamic-form-cloths-list",
@@ -136,16 +147,5 @@
     "keyFeatures": ["User-Friendly Interface"],
     "project": "Front-End",
     "technologies": ["React", "react-icons"]
-  },
-  {
-    "id": 9,
-    "title": "B-Trip",
-    "image": "https://drive.google.com/file/d/1ogP9EeyfQqF1geqBe5XbxzNw8fUSerj7/view?usp=drive_link",
-    "client": "https://github.com/Rahulfordev/b-trip",
-    "backend": null,
-    "live": "https://b-trip.vercel.app/",
-    "keyFeatures": ["User-Friendly Interface"],
-    "technologies": ["React", "Next.js", "Tailwind CSS", "react-icons", "react-slider", "swiper"],
-    "project": "Front-End"
   }
 ]
